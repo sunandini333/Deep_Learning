@@ -1,0 +1,15 @@
+###CNN
+1. why can't we use ANN in image classification?
+2. What is the convolutional operation?
+3. What is filter? and how do we decide the size of the filter? and how many numbers of filters should we take?
+4. What are the various types of pooling? When do we use mean and min pooling?
+5. What is padding?
+6. what is strides?
+7. what are the loss functions use here in CNN? # binary cross entrophy and category cross entropy
+8. what is the difference between sparse and categorical cross entropy?
+9. what is transfer learning?
+10. Differences between Resnet and Inception V3?
+11. what is the state of art algorithm?
+12. How do we do object detection?
+13. What is YOLO V3?
+14. What do you mean by image segmentation?
